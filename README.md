@@ -21,7 +21,7 @@ To make this project you need to follow this step:-
 
 ## Installation
 
-Install package with pip
+Install package with pip (for this project you need to install mentioned version module)
 
 ```bash
 pip install cvzone==1.4.1
@@ -69,7 +69,7 @@ YouTube:- https://www.youtube.com/@problemsolvewithridoy
 
 Gmail:- entridoy2@gmail.com
 
-If you have any confusion, please feel free to contact me. Thank you
+## If you have any confusion, please feel free to contact me. Thank you
 
 
 ## License
